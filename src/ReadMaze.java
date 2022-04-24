@@ -8,7 +8,6 @@ public class ReadMaze {
 
     private String[][] maze;
 
-    // Metodo que retorna labirinto lido em matriz
     public void ConvertMazeToArray(String mazePath) throws IOException {
 
         String[][] mazeConverted = new String[100][100];

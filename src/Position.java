@@ -1,5 +1,3 @@
-
-// Criando posicoes x e y que sera a posicao na matriz
 public class Position {
 
     int x;
